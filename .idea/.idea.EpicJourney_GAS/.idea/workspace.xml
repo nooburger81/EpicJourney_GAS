@@ -12,7 +12,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="77ce76f6-71ea-4266-8f08-88f305da5fb1" name="Changes" comment="" />
+    <list default="true" id="77ce76f6-71ea-4266-8f08-88f305da5fb1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.EpicJourney_GAS/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.EpicJourney_GAS/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/GameplayAbilitySystem/Abilities/GA_Sprint.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/GameplayAbilitySystem/Characters/ABP/ABP_WarriorBase.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/GameplayAbilitySystem/Characters/ABP/ABP_WarriorBase.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/GameplayAbilitySystem/Characters/EPICJBP_Player.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/GameplayAbilitySystem/Characters/EPICJBP_Player.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_VertexProject/Player/Abilities/Movement/GA_Sprint.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_VertexProject/Player/Abilities/Movement/GA_Sprint.uasset" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -162,7 +168,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1768229464033</updated>
-      <workItem from="1768229465819" duration="3086000" />
+      <workItem from="1768229465819" duration="4952000" />
     </task>
     <servers />
   </component>
